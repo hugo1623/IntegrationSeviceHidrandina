@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IntegrationSeviceHidrandina", "IntegrationSeviceHidrandina\IntegrationSeviceHidrandina.dtproj", "{DB35D355-13B2-480B-A28D-857FDE28BC62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB35D355-13B2-480B-A28D-857FDE28BC62}.Development|Default.ActiveCfg = Development
+		{DB35D355-13B2-480B-A28D-857FDE28BC62}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B06ABD55-5700-4CA6-B2F0-E37906133D31}
+	EndGlobalSection
+EndGlobal
